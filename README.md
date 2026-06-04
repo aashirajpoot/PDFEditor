@@ -43,12 +43,7 @@ Protect PDF documents with a password for enhanced security.
 ---
 
 ## 📸 Application Preview
-
-*Add a screenshot of your application here.*
-
-```md
-![PDF Editor Screenshot](screenshot.png)
-```
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/fa9183a5-7a95-4861-bc68-9832cec666d9" />
 
 ---
 
